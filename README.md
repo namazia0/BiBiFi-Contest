@@ -17,7 +17,7 @@ In this phase, the task is to find security violations in the other group's code
 - Integrity (an attacker is able to fool logappend or logread into accepting their manipulated log file)
 
 ### Fix it
-In this phase, this solution received improvements from the other teams. We were supposed to fix the bugs.
+In this phase, this solution received improvements from the other teams. The task was to fix the bugs.
 
 
 ## How to test locally
