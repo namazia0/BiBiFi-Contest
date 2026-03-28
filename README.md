@@ -1,4 +1,4 @@
-# BiBiFiContest
+# BiBiFi Contest
 
 This repo shows one solution for the [Build it Break it Fix it (BiBiFi)](https://builditbreakit.org/) challenge, developed as part of the Secure Software Engineering course during the Winter Semester 2023/2024.
 
