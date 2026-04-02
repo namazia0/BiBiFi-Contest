@@ -10,7 +10,7 @@ This project was divided into three parts.
 Implement a secure log to describe the state of an art gallery: The guests and employees who have entered and left, and persons that are in rooms. The log will be used by two programs. One program, logappend, will append new information to this file, and the other, logread, will read from the file and display the state of the art gallery according to a given query over the log. Both programs will use an authentication token, supplied as a command-line argument, to authenticate each other.
 
 ### Break it
-In this phase, the task is to find security violations in the other group's code. There are four break submission types:
+In this phase, the task was to find security violations in the other group's code. There are four break submission types:
 - Correctness (the implementation violates the specification)
 - Crash (the implementation terminates unexplectedly)
 - Confidentiality (an attacker is able to learn contents from log files without authorization)
