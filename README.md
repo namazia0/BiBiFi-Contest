@@ -13,7 +13,7 @@ Implement a secure log to describe the state of an art gallery: The guests and e
 In this phase, the task is to find security violations in the other group's code. There are four break submission types:
 - Correctness (the implementation violates the specification)
 - Crash (the implementation terminates unexplectedly)
-- Confidentiality (an attacker is able to learn contents from log files without authorisation)
+- Confidentiality (an attacker is able to learn contents from log files without authorization)
 - Integrity (an attacker is able to fool logappend or logread into accepting their manipulated log file)
 
 ### Fix it
